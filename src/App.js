@@ -1,6 +1,5 @@
 import { FaFacebook, FaLinkedinIn, FaTwitter } from "react-icons/fa";
 
-// sonradan responsive ekle
 
 function App() {
   return (
